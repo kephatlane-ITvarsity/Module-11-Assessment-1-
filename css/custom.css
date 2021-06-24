@@ -1,3 +1,6 @@
+
+/*------Carousel Column------*/
+
 .carousel-caption{
     background-color: rgba(0, 0, 0.5);
     width: 100%;
@@ -6,6 +9,8 @@
     padding-bottom: 2rem;
     padding-left: 2rem;
 }
+
+/*------Team Column------*/
 
 .team .col-lg-4 {
     padding-top: 3rem;
@@ -17,6 +22,7 @@
     margin: 3rem 0;
 }
 
+/*----------Footer Column-------------*/
 
 .footer-section{
     padding-top: 3rem;
@@ -29,6 +35,8 @@
         margin-top: 10rem;
     }
 }
+
+/*----------Media Column-------------*/
 
 @media (max-width: 540px) {
     .carouselImg {
